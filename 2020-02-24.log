@@ -1,0 +1,4 @@
+2020-02-24 20:22:49,952 | CRITICAL | 0030 | THE DAEMON RUN INITIAED
+2020-02-24 20:22:49,987 | INFO     | 0047 | URL Generated :http://fablab.srmiic.com/fabui/api/item?key=5062acabf92c4007835e04cc8734a20c
+2020-02-24 20:27:18,893 | CRITICAL | 0030 | THE DAEMON RUN INITIAED
+2020-02-24 20:27:18,915 | INFO     | 0047 | URL Generated :https://monuabhaysv-eval-prod.apigee.net/svabhay2
