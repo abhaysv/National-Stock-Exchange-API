@@ -1,0 +1,6 @@
+﻿  NSE-API.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1184 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NSE-API.vcxproj -> E:\GITHUB\National-Stock-Exchange-API\NSE-API\Release\NSE-API.exe
