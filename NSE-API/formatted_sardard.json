@@ -1,0 +1,122 @@
+{
+    "info": {
+        "activeSeries": [
+            "EQ"
+        ],
+        "companyName": "EIH Limited",
+        "debtSeries": [],
+        "identifier": "EIHOTELEQN",
+        "industry": "HOTELS",
+        "isCASec": false,
+        "isDebtSec": false,
+        "isETFSec": false,
+        "isFNOSec": false,
+        "isSLBSec": false,
+        "isSuspended": false,
+        "isTop10": false,
+        "symbol": "EIHOTEL",
+        "tempSuspendedSeries": []
+    },
+    "metadata": {
+        "industry": "HOTELS/RESORTS",
+        "isin": "INE230A01023",
+        "lastUpdateTime": "02-Mar-2020 16:00:00",
+        "listingDate": "08-Feb-1995",
+        "pdSectorInd": "NIFTY SERVICES SECTOR                             ",
+        "pdSectorPe": 27.72,
+        "pdSymbolPe": 61.94,
+        "series": "EQ",
+        "status": "Listed",
+        "symbol": "EIHOTEL"
+    },
+    "preOpenMarket": {
+        "IEP": 131,
+        "ato": {
+            "buy": 4,
+            "sell": 211
+        },
+        "atoBuyQty": 4,
+        "atoSellQty": 211,
+        "finalPrice": 131,
+        "finalQuantity": 357,
+        "lastUpdateTime": "02-Mar-2020 09:07:17",
+        "preopen": [
+            {
+                "buyQty": 25,
+                "price": 130.55,
+                "sellQty": 0
+            },
+            {
+                "buyQty": 300,
+                "iep": true,
+                "price": 131,
+                "sellQty": 221
+            },
+            {
+                "buyQty": 4,
+                "price": 131.1,
+                "sellQty": 0
+            },
+            {
+                "buyQty": 49,
+                "price": 131.5,
+                "sellQty": 0
+            },
+            {
+                "buyQty": 0,
+                "price": 131.85,
+                "sellQty": 86
+            },
+            {
+                "buyQty": 0,
+                "price": 132.7,
+                "sellQty": 4
+            },
+            {
+                "buyQty": 0,
+                "price": 134,
+                "sellQty": 5
+            }
+        ],
+        "totalBuyQuantity": 10125,
+        "totalSellQuantity": 14264,
+        "totalTradedVolume": 357
+    },
+    "priceInfo": {
+        "basePrice": 131.85,
+        "change": -3.799999999999983,
+        "close": 128.8,
+        "intraDayHighLow": {
+            "max": 133.85,
+            "min": 127.2,
+            "value": 128.05
+        },
+        "lastPrice": 128.05,
+        "lowerCP": "105.50",
+        "open": 131,
+        "pChange": -2.882062950322323,
+        "pPriceBand": "20",
+        "previousClose": 131.85,
+        "upperCP": "158.20",
+        "vwap": 129.63,
+        "weekHighLow": {
+            "max": 214.8,
+            "maxDate": "14-Mar-2019",
+            "min": 125,
+            "minDate": "28-Feb-2020",
+            "value": 128.05
+        }
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "faceValue": 2,
+        "issuedCap": 571569414,
+        "sessionNo": "-",
+        "slb": "No",
+        "surveillance": "-",
+        "tradingSegment": "Normal Market",
+        "tradingStatus": "Active"
+    }
+}
